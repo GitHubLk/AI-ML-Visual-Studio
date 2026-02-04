@@ -1,0 +1,10 @@
+{
+  "max_encoder_seq_len": 6,
+  "max_decoder_input_len": 13,
+  "src_vocab_size": 3516,
+  "tgt_vocab_size": 6667,
+  "sos_id": 2,
+  "eos_id": 3,
+  "sos_token": "sostok",
+  "eos_token": "eostok"
+}
